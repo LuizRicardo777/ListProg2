@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -198,8 +199,44 @@ namespace ListProg2
             //8- exercicio do ano bissexto
 
 
+            //double num1, num2,resul;
+            //char carac;
 
+            //Console.WriteLine("digite um numero");
+            //num1 = double.Parse(Console.ReadLine());
+            //Console.WriteLine("digite outro numero");
+            //num2 = double.Parse(Console.ReadLine());
+            //Console.WriteLine("digite um caracter(+,-,/,*)");
+            //carac = char.Parse(Console.ReadLine());
 
-            }
+            //if (carac == '+')
+            //{
+            //    resul = num1 + num2;
+            //    Console.WriteLine($"o resultado dos dados é {resul}");
+            //}
+            //else if (carac == '-')
+            //{
+            //    resul = num1 - num2;
+            //    Console.WriteLine($"o resultado dos dados é {resul}");
+            //}
+            //else if (carac == '/')
+            //{
+            //    resul = num1 / num2;
+            //    Console.WriteLine($"o resultado dos dados é {resul}");
+            //}
+            //else if (carac == '*')
+            //{ 
+            //    resul = num1 * num2;
+            //    Console.WriteLine($"o resultado dos dados é {resul}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("esse caracter não era esperado, volte e digite outro");
+            //}
+            //Console.ReadKey();
+            //9-exercico das contas
+
+            //10- Para gerar números aleatórios em C#, use a classe Random. Para gerar um número inteiro aleatório em um intervalo, use o método Next(minValue, maxValue). Para gerar um número real aleatório em um intervalo, use o método NextDouble() e ajuste o valor multiplicando pelo tamanho do intervalo e adicionando ao valor mínimo.
+        }
     }
 }
